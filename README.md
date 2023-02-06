@@ -1,1 +1,1 @@
-# Python-Orienta-o-Objetos
+Olá, meu nome é Allan. Com a ajuda do curso "Python: entendendo a orientação a objetos" do site Alura pude aprofundar meus conhecimentos em POO. Utilizamos o exemplo de criação de uma conta de um banco para entender mais os conceitos da orientação a objetos e como isso esses conceitos são aplicados na linguagem de programação Python.
